@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,100:764ba2&text=Piyush%20Jhajhria&fontSize=70&fontAlignY=45&desc=Frontend%20Developer%20%7C%20React%20Learner&descSize=22&descAlignY=65&animation=fadeIn)
+
+
 # 👋 Hi, I'm Piyush Jhajhria
 
 🎓 **Web Development Student**  
